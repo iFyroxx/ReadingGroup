@@ -6,14 +6,21 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 
+#### Sept 15: 15:15-16:45pm.
+Estimation and variable selection in high dimension in nonlinear mixed-effects models \
+Caillebotte, et al, ArXiv \
+[[`paper`](https://arxiv.org/pdf/2503.20401)]
+
+
+
+## Past meetings
+
 #### Sept 1: 15:30-17:00pm.
 Health system learning enables generalist neuroimaging models \
 Kondepudi, et al, Nature Medecine 2026 \
 [[`paper`](https://www.nature.com/articles/s41591-026-04497-1)]
 
 
-
-## Past meetings
 
 #### June 30: 15:00-16:30pm.
 Accurate predictions on small data with a tabular foundation model \
